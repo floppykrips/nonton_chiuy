@@ -1,5 +1,5 @@
 // ── CONFIG ──
-const API_KEY = '4ef0d7355d9e8d428107bfbf2b8fb1e4';
+const API_KEY = '85e428c8f286893841b21eefd9cc71b5';
 const BASE    = 'https://api.themoviedb.org/3';
 const IMG     = 'https://image.tmdb.org/t/p/w500';
 const IMG_BIG = 'https://image.tmdb.org/t/p/w1280';
